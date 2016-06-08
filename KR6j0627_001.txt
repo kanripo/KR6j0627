@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:37.790363
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:40
 #+TITLE: 拔濟苦難陀羅尼經
 #+PROPERTY: CBETA_ID T21n1395
 #+PROPERTY: ID KR6j0627
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1395
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0627_T_000-0912b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0627_T_001-0912b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1395¶
-
- 拔濟苦難陀羅尼經¶
+No. 1395¶
+拔濟苦難陀羅尼經¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 
